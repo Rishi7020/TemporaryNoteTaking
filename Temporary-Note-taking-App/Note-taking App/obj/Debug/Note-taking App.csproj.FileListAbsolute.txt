@@ -1,0 +1,10 @@
+E:\C# Project New\Temporary-Note-taking-App\Note-taking App\bin\Debug\Note-taking App.exe.config
+E:\C# Project New\Temporary-Note-taking-App\Note-taking App\bin\Debug\Note-taking App.exe
+E:\C# Project New\Temporary-Note-taking-App\Note-taking App\bin\Debug\Note-taking App.pdb
+E:\C# Project New\Temporary-Note-taking-App\Note-taking App\obj\Debug\Note-taking App.csprojAssemblyReference.cache
+E:\C# Project New\Temporary-Note-taking-App\Note-taking App\obj\Debug\Note_taking_App.Form1.resources
+E:\C# Project New\Temporary-Note-taking-App\Note-taking App\obj\Debug\Note_taking_App.Properties.Resources.resources
+E:\C# Project New\Temporary-Note-taking-App\Note-taking App\obj\Debug\Note-taking App.csproj.GenerateResource.cache
+E:\C# Project New\Temporary-Note-taking-App\Note-taking App\obj\Debug\Note-taking App.csproj.CoreCompileInputs.cache
+E:\C# Project New\Temporary-Note-taking-App\Note-taking App\obj\Debug\Note-taking App.exe
+E:\C# Project New\Temporary-Note-taking-App\Note-taking App\obj\Debug\Note-taking App.pdb
